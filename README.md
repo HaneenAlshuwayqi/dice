@@ -1,6 +1,6 @@
 # dice
 
-A new Flutter project.
+A simple code I wrote that makes you roll two dice at the same time. :)
 
 ## Getting Started
 
